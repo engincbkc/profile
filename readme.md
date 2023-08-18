@@ -1,9 +1,9 @@
 # <div align="center">Engin ÇUBUKCUOĞLU</div>
-<div align="center">
+<div align="left">
   *Adres:* Istanbul, Turkey<br>
   *Telefon:* 90 (546) 258 37 64
 </div>
-<div align="center">
+<div align="right">
   *E-posta:* engincubukcuoglu@hotmail.com<br>
   *LinkedIn:* [engincbkc_linkedn](https://www.linkedin.com/in/engin-%C3%A7ubukcuo%C4%9Flu-1861b021a/)<br>
   *GitHub:* [engincbkc_github](https://github.com/engincbkc)
